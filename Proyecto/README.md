@@ -7,6 +7,12 @@
 # **1. Definición De Proyecto**
 Creación de un programa de JAVA JSP para la administración de un sistema registros de solicitantes, haciendo uso de una única view y la comunicación con múltiples componentes Controller y Model. Con la integración de la operación de DTO, DAO y objetos de DOM, clases y otros objetos de Java y objetos en la web.
 
+![image1](https://github.com/SevenDogsNTwoCats/Imagenes/blob/main/reg410-1.png)
+![image2](https://github.com/SevenDogsNTwoCats/Imagenes/blob/main/reg410-2.png)
+![image3](https://github.com/SevenDogsNTwoCats/Imagenes/blob/main/reg410-3.png)
+![image4](https://github.com/SevenDogsNTwoCats/Imagenes/blob/main/reg410-4.png)
+![image5](https://github.com/SevenDogsNTwoCats/Imagenes/blob/main/reg410-5.png)
+
 ## <center> **Requerimientos** </center>
 1. Deberá existir una única View en todo el proyecto, donde se centraliza toda la funcionalidad del sistema, la cual invoca distintas ventanas modales de Bootstrap (https://getbootstrap.com/docs/5.1/components/modal/), con distintos Controller, Objetos, Javascripts, DTO y DAO para las diferentes funcionalidades del sistema.
 2. Debe existir un menú superior que permita crear un nuevo registro. Esta acción deberá habilitar una ventana modal para la recepción de los datos de registro: correo, tipo y descripción.
